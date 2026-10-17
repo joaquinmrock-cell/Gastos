@@ -1,0 +1,10 @@
+{
+  "product": "soja",
+  "currency": "ARS",
+  "pricePerTn": 560000,
+  "priceDate": "2026-10-15",
+  "checkedAt": "2026-10-17T19:23:04Z",
+  "source": "https://cac.bcr.com.ar/es",
+  "sourceName": "Cámara Arbitral de Cereales (BCR), pizarra Rosario",
+  "byMonth": { "2026-10": { "date": "2026-10-15", "pricePerTn": 560000 } }
+}
